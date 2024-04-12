@@ -1,0 +1,42 @@
+.movieslist  {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    display: inline-flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+.mainm{
+    border: 2px solid white;
+    margin: 2%;
+    width: 25%;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(124, 99, 99);
+}
+h3{
+    text-align: center;
+    padding: 1%;
+    margin: 0%;
+}
+.poster{
+    height: 300px;
+    width: 80%;
+}
+
+.movieslist li{
+    font-size: 15px;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+label{
+    margin-left: 37%;
+    font-size: larger;
+}
+input{
+    font-size: 17px;
+    font-weight: bold;
+}
